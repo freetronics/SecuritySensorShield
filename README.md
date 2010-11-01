@@ -42,7 +42,7 @@ Features:
 
 More information is available at:
 
-  http://www.freetronics.com/security-sensor-shield
+  http://www.freetronics.com/security-sensor-shield  
   http://www.practicalarduino.com/projects/security-sensors
 
 The "docs" folder within this repository includes a handy copy of the
