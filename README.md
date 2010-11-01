@@ -9,7 +9,7 @@ project in the book "Practical Arduino", this shield allows up to 4
 security sensors to be connected with full End-Of-Line (EOL) support to
 detect tampering.
 
-Sensors supported include:
+Supported sensors include:
 
  * PIR (passive infrared) motion detectors.
  * Microwave motion detectors.
@@ -43,6 +43,7 @@ Features:
 More information is available at:
 
   http://www.freetronics.com/security-sensor-shield
+  http://www.practicalarduino.com/projects/security-sensors
 
 The "docs" folder within this repository includes a handy copy of the
 schematic in PDF format and image(s) of the pcb.
